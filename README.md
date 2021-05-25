@@ -1,1 +1,1 @@
-# アルゴリズムを学ぶためのレポジトリ
+## learning algorithems
